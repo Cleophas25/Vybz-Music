@@ -2,6 +2,7 @@
   "name": "wolim-music",
   "private": true,
   "version": "0.0.0",
+   "homepage": "https://vybzmusic.netlify.app",
   "type": "module",
   "scripts": {
     "dev": "vite",
